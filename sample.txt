@@ -13,3 +13,5 @@ git commit -m "description"
 git push --> to push chnages to remote repo
 
 git restore . or file name
+
+git pull -- updated local repo
