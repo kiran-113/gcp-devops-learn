@@ -15,3 +15,7 @@ git push --> to push chnages to remote repo
 git restore . or file name
 
 git pull -- updated local repo
+
+git branch branch name --- to create branch
+
+git switch branch name -- to switch to branch
