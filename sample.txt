@@ -19,3 +19,5 @@ git pull -- updated local repo
 git branch branch name --- to create branch
 
 git switch branch name -- to switch to branch
+
+git checkout -b branch name --> creates new branch and switches to new branch
