@@ -1,0 +1,15 @@
+SOme sample text
+
+git clone
+
+git status
+
+git remote -v
+
+git add . or file names
+
+git commit -m "description"
+
+git push --> to push chnages to remote repo
+
+git restore . or file name
